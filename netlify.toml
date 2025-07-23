@@ -1,7 +1,0 @@
-[build]
-  command = "next build && next export"
-  publish = "out"
-
-[build.environment]
-  NODE_VERSION = "24"
-  NEXT_TELEMETRY_DISABLED = "1"
